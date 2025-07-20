@@ -14,29 +14,4 @@ This is a clean and modern travel website landing page built with **React** and 
 
 ---
 
-## 🔧 Tech Stack
 
-- React (with Create React App)
-- Tailwind CSS
-- PostCSS + Autoprefixer
-
----
-
-## 📁 Folder Structure
-
-travel-landing-pages/
-├── public/
-│ └── index.html
-├── src/
-│ ├── assets/
-│ │ └── images/
-│ │ └── hero.jpg # Background image
-│ ├── components/
-│ │ └── Hero.jsx # Hero section component
-│ ├── App.jsx # Main app entry point
-│ ├── index.css # Tailwind CSS imports
-│ └── index.js # React DOM render
-├── tailwind.config.js # Tailwind configuration
-├── postcss.config.js # PostCSS config
-├── package.json
-└── README.md
