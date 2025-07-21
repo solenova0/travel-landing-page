@@ -13,34 +13,5 @@ This is a clean and modern travel website landing page built with **React** and 
 - Easy to extend — add your own navbar, destinations, services, footer, and more
 
 ---
-Folder Structure (React + Tailwind Travel Website with Routing, Animations, and Contact)
-
-travel-landing-page/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Hero.jsx
-│   │   ├── SearchPanel.jsx
-│   │   ├── Destinations.jsx
-│   │   ├── WhyChooseUs.jsx
-│   │   ├── Testimonials.jsx
-│   │   ├── Newsletter.jsx
-│   │   ├── Contact.jsx
-│   │   └── Footer.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── DestinationsPage.jsx
-│   │   └── ContactPage.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-└── README.md
 
 
