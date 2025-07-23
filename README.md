@@ -4,14 +4,4 @@ This is a clean and modern travel website landing page built with **React** and 
 
 ---
 
-## ✨ Features
-
-- Full-screen hero section with background image and overlay
-- Tailwind CSS for quick and responsive styling
-- Component-based React architecture
-- Clean folder structure
-- Easy to extend — add your own navbar, destinations, services, footer, and more
-
----
-
 
